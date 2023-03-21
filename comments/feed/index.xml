@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Commenti per Unicopli	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Editoria e distribuzione</description>
+	<lastBuildDate>Tue, 17 Jan 2023 13:49:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		Commenti su Intervista Kaha Mohamed Aden di Lidia Campagnano		</title>
+		<link>/interviste-autori/intervista-kaha-mohamed-aden/#comment-5</link>
+
+		<dc:creator><![CDATA[Lidia Campagnano]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2023 13:49:06 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=9490#comment-5</guid>
+
+					<description><![CDATA[mi colpisce sempre la libertà di pensiero di Kaha, la leggo come capacità di capire quanto sia articolata la storia del mondo, una sorta di internazionalismo intellettuale difficile da incontrare, mi sembra, di questi tempi - e sarebbe indispensabile la sua diffusione, o meglio il suo insegnamento.]]></description>
+			<content:encoded><![CDATA[<p>mi colpisce sempre la libertà di pensiero di Kaha, la leggo come capacità di capire quanto sia articolata la storia del mondo, una sorta di internazionalismo intellettuale difficile da incontrare, mi sembra, di questi tempi &#8211; e sarebbe indispensabile la sua diffusione, o meglio il suo insegnamento.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Commenti su Concorso Letterario Green Book di Adamo Costantino		</title>
+		<link>/unicopli-marzo-e-aprile-2021/riu/concorso-letterario-green-book/#comment-4</link>
+
+		<dc:creator><![CDATA[Adamo Costantino]]></dc:creator>
+		<pubDate>Thu, 12 May 2022 21:30:46 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=8987#comment-4</guid>
+
+					<description><![CDATA[Grande Ryu, una storia commovente e un gorilla che è già un beniamino.]]></description>
+			<content:encoded><![CDATA[<p>Grande Ryu, una storia commovente e un gorilla che è già un beniamino.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Commenti su Protetto: Intervista prova di Unicopli		</title>
+		<link>/intervista-prova/#comment-3</link>
+
+		<dc:creator><![CDATA[Unicopli]]></dc:creator>
+		<pubDate>Mon, 31 May 2021 11:33:01 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=2957#comment-3</guid>
+
+					<description>Commenti protetti: inserisci la tua password per visualizzare i commenti.</description>
+			<content:encoded><![CDATA[<form action="/wp-login.php?action=postpass" class="post-password-form" method="post">
+	<p>Il contenuto è protetto da password. Per visualizzarlo inserisci di seguito la password:</p>
+	<p><label for="pwbox-2957">Password: <input name="post_password" id="pwbox-2957" type="password" size="20" /></label> <input type="submit" name="Submit" value="Invio" /></p></form>
+	]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Commenti su Protetto: Intervista prova di anche io		</title>
+		<link>/intervista-prova/#comment-2</link>
+
+		<dc:creator><![CDATA[anche io]]></dc:creator>
+		<pubDate>Mon, 10 May 2021 11:12:14 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=2957#comment-2</guid>
+
+					<description>Commenti protetti: inserisci la tua password per visualizzare i commenti.</description>
+			<content:encoded><![CDATA[<form action="/wp-login.php?action=postpass" class="post-password-form" method="post">
+	<p>Il contenuto è protetto da password. Per visualizzarlo inserisci di seguito la password:</p>
+	<p><label for="pwbox-2957">Password: <input name="post_password" id="pwbox-2957" type="password" size="20" /></label> <input type="submit" name="Submit" value="Invio" /></p></form>
+	]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Commenti su Protetto: Intervista prova di me e me		</title>
+		<link>/intervista-prova/#comment-1</link>
+
+		<dc:creator><![CDATA[me e me]]></dc:creator>
+		<pubDate>Mon, 10 May 2021 10:13:04 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=2957#comment-1</guid>
+
+					<description>Commenti protetti: inserisci la tua password per visualizzare i commenti.</description>
+			<content:encoded><![CDATA[<form action="/wp-login.php?action=postpass" class="post-password-form" method="post">
+	<p>Il contenuto è protetto da password. Per visualizzarlo inserisci di seguito la password:</p>
+	<p><label for="pwbox-2957">Password: <input name="post_password" id="pwbox-2957" type="password" size="20" /></label> <input type="submit" name="Submit" value="Invio" /></p></form>
+	]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
